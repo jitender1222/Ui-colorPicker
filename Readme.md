@@ -14,6 +14,6 @@ It took me around ![](https://img.shields.io/badge/-40min-red) to complete this 
 
 After making this project i get more confident in using tailwind css and **learn** how to use **grids** and clear my some doubt regarding giving **height** to smaller devices and large devices. 
 
-## Screenshot 
+## Screenshot [Live-Link](https://uicolorpicker-clone.netlify.app/)
 
 ![](./Screenshot%20(35).png)
